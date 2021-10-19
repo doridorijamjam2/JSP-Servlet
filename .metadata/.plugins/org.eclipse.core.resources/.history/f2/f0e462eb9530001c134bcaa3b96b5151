@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+<style type = "text/css">
+	#formArea {
+		width : 300px;
+		height : 150px;
+		border : 1px solid red;
+		margin : auto;
+		text-align : center;
+	}
+	h1 {
+		text-align : center;
+	}
+	input[type="submit"] {
+		margin-top : 15px;
+	}
+	
+</style>
+</head>
+<body>
+<section id = "formArea">
+<h1>이름 입력</h1> 
+<form action = "hangul" method = "Get">
+	<label for = "name"> 이름 : </label>
+	<input type = "text" name = "name" id = "name"><br>
+	<input type = "submit" value = 전송>
+</form>	
+</section>
+</body>
+</html>
