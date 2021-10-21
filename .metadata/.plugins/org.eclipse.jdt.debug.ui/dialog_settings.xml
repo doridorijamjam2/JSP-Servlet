@@ -4,6 +4,7 @@
 	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth1" value="731"/>
 	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.columnWidth2" value="73"/>
 	<item key="org.eclipse.jdt.debug.ui.jre_preference_page_context.sortColumn" value="1"/>
+	<item key="JavaClasspathTab.LAST_PATH_SETTING" value="/usr/local/apache-tomcat-9.0.52/bin"/>
 	<section name="org.eclipse.jdt.debug.ui.MAIN_METHOD_SELECTION_DIALOG">
 		<item key="ShowStatusLine" value="true"/>
 		<item key="History" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;&#x0A;&lt;History&gt;&#x0A;&lt;historyRootNode&gt;&#x0A;&lt;infoNode&gt;=Test/\/usr\/local\/apache-tomcat-9.0.52\/lib\/catalina.jar=/module=/true=/=/javadoc_location=/https:\/\/tomcat.apache.org\/tomcat-9.0-doc\/api\/=/&amp;lt;org.apache.catalina.realm(AuthenticatedUserRealm.class[AuthenticatedUserRealm&lt;/infoNode&gt;&#x0A;&lt;/historyRootNode&gt;&#x0A;&lt;/History&gt;"/>

@@ -5,4 +5,5 @@
     <fullyQualifiedTypeName name="dao.MemberDAO"/>
     <fullyQualifiedTypeName name="vo.MemberVO"/>
     <fullyQualifiedTypeName name="javax.servlet.RequestDispatcher"/>
+    <fullyQualifiedTypeName name="javax.servlet.http.Cookie"/>
 </qualifiedTypeNameHistroy>
