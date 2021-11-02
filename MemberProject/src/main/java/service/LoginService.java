@@ -9,7 +9,7 @@ import dao.MemberDAO;
 
 public class LoginService {
 
-	public MemberVO getloginMember(String id, String passwd) {
+	public MemberVO getLoginMember(String id, String passwd) {
 		// TODO Auto-generated method stub
 		Connection con = getConnection();
 		MemberDAO memberDAO = MemberDAO.getInstance();
@@ -19,5 +19,6 @@ public class LoginService {
 		close(con);
 		return loginMember;
 	}
+
 
 }

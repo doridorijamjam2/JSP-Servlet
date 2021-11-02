@@ -60,6 +60,16 @@ public class MemberFrontController extends HttpServlet {
 				e.printStackTrace();
 			}
 		}
+		else if(command.equals("/logout.me")) {
+			action = new MemberLoginAction();
+			
+			try {
+				forward = action.execute(request, response);
+			} catch (Exception e) {
+				// TODO: handle exception
+				e.printStackTrace();
+			}
+		}
 		
 		//3.forward ��ü�� ������ ����ؼ� ������
 		if(forward != null) {

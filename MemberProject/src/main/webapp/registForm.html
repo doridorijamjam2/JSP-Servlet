@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+<Style>
+     #registFormArea{
+     width : 800;
+     margin : auto;
+     border : 1px solid green;
+     }
+     h1{
+     text-align: center;
+     border-bottom: 3px double blue;
+     }
+     table{
+     width: 780;
+     margin : auto;
+     text-align: center;
+     }
+     .td_left{
+     width: 200px;
+     }
+     .td_right{
+     width: 780px;
+     }
+</Style>
+</head>
+<body>
+<session id = "registFormArea">
+<h1>회원등록</h1>
+<form action = "memberRegist.me" method = "POST" name = "registForm">
+    <table>
+    <tr>
+    <td class = "td_left"><label for = "memberId">회원아이디 : </label>
+    <td class = "td_right">
+    <input type = "text" name = "memberId" id = "memberId"
+    required="required" placeholder="회원아이디"/>
+    <input type = "button" value = "아이디 중복체크"
+    onclick="checkMemberId()"/>
+    </table>
+</form>
+</body>
+</html>

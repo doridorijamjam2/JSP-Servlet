@@ -13,7 +13,7 @@
 	<%
 		if(memberId != null) {
 	%>
-		<a href = "logout">로그아웃</a>
+		<a href = "logout.me">로그아웃</a>
 	<% 		
 		}
 		else {
