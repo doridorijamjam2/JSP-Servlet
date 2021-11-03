@@ -7,6 +7,8 @@ INDEX VERSION 1.131
 /Day-02/src/main/java
 /Users/doridorijamjam/eclipse-workspace-html5/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3065565429.index
 /MemberProject/src/main/java
+/Users/doridorijamjam/eclipse-workspace-html5/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3436749074.index
+/BBS/src/main/java
 /Users/doridorijamjam/eclipse-workspace-html5/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2666453480.index
 /Day_01/src/main/java
 /Users/doridorijamjam/eclipse-workspace-html5/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2459205167.index

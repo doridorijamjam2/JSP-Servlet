@@ -1,6 +1,7 @@
 JRE_LIB=/Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home/lib/jrt-fs.jar
 JRE_SRC=/Library/Java/JavaVirtualMachines/jdk-11.0.12.jdk/Contents/Home/lib/src.zip
 eclipse.preferences.version=1
+org.eclipse.jdt.core.builder.resourceCopyExclusionFilter=*.ucls,*.useq
 org.eclipse.jdt.core.classpathVariable.ECLIPSE_HOME=/Users/doridorijamjam/Desktop/\uBB34\uC81C \uD3F4\uB354/Eclipse-jsp.app/Contents/Eclipse/
 org.eclipse.jdt.core.classpathVariable.JRE_LIB=/Users/doridorijamjam/Library/Java/JavaVirtualMachines/corretto-16.0.2/Contents/Home/lib/jrt-fs.jar
 org.eclipse.jdt.core.classpathVariable.JRE_SRC=/Users/doridorijamjam/Library/Java/JavaVirtualMachines/corretto-16.0.2/Contents/Home/lib/src.zip
